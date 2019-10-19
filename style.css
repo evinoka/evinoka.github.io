@@ -60,7 +60,7 @@ color: red;
   width: 300px;
   margin-left: 300px;
   margin-right: 450px;
-  margin-top: 50px;
+  margin-top: 20px;
   font-family: Baskerville Old Face;
   background-color: #F5FFFA;
   letter-spacing: 2px;
@@ -69,18 +69,29 @@ color: red;
   text-justify: inter-word;
   background-color: white;
 }
+#tika{
+	margin-top: -80px;
+}
 .italia{
 	display: block;
-	width: 300px;
-	margin-left: -100px;
+	width: 410px;
+	margin-left: -171px;
 	margin-top: 300px;
-	margin-bottom: -750px;
-	border-radius: 50%;
+	margin-bottom: 10px;
+	border-radius: 15px;
 	height: auto;
 	padding: 0px;
 }
 
-	
+	.tropoje{
+	display: block;
+	margin-top: 100px;
+	margin-bottom: -475px;
+	border-radius: 8px;
+	height: auto;
+	margin-left: 500px;
+	}
+		
 .noka {
   border: 1px solid black;
   padding: 50px;
@@ -252,7 +263,6 @@ h3{
 #container{
 	width: 1000px;
 	margin: 0 auto; 
-	position: relative;
 	background-color: #F5FFFA;
 }
 
@@ -287,11 +297,10 @@ h3{
 .stil{
 	color: red;
 	padding: 40px;
-	margin-bottom: 310px;
 	width: 400px;
 	margin-left: 270px;
 	margin-top: 100px;
-	margin-bottom: -30px;
+	margin-bottom: 5px;
 	font-family: Baskerville Old Face;
 	background-color: #F5FFFA;
 	letter-spacing: 2px;
@@ -301,6 +310,11 @@ h3{
 	 background-color: none;
 }
 
+.sun{
+	width: 350px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
 
 h7{
 	font-family: Ink Free;
@@ -309,7 +323,9 @@ h7{
 	font-size: 45px;
 	background-color: rgba(45, 45, 45, 0.1);
 	margin-top: 20px;
-	margin-right: -90px;
+	margin-bottom: -10px;
+	margin-left: 345px;
+	position: relative;
 }
 
 #ehaa{
